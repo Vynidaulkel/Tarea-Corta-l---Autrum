@@ -79,22 +79,10 @@ En esta prueba, se evaluó el funcionamiento del analizador en tiempo real, el o
 
 
 
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/577378618074857473/1149875167124787281/image.png" alt="Descripción de la imagen" width="500">
-</p>
-
-
-
-
 ### 2.Prueba del analizador de WAV’s
 Se evaluó la capacidad del analizador de la aplicación para procesar archivos de audio en formato .WAV, el objetivo principal fue verificar que la aplicación pueda cargar, analizar y visualizar adecuadamente el análisis de las grabaciones de voz almacenadas en archivos .WAV.
 
 
-
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/577378618074857473/1149876486820610069/image.png" alt="Descripción de la imagen" width="500">
-</p>
 
 
 
@@ -111,33 +99,10 @@ Se evaluó la capacidad del reproductor y del analizador de la aplicación para 
 
 
 
-
-
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/577378618074857473/1149879454101938206/image.png?width=1185&height=676" alt="Descripción de la imagen" width="500">
-</p>
-
-
-
-
 ### 4. Análisis de múltiples grabaciones superpuestas:
 
 
 En esta prueba se analizaron múltiples grabaciones de audio a la misma vez, se verificó que el programa es capaz de gestionar el análisis de múltiples grabaciones en una misma gráfica, en el caso de ejemplo se usaron hasta 4 grabaciones al mismo tiempo, cada color diferente corresponde a una grabación diferente.  
-
-
-
-
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/577378618074857473/1149857860742815763/image.png" alt="Descripción de la imagen" width="500">
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1051718368471814196/1149881141994721422/image.png" alt="Descripción de la imagen" width="500">
-</p>
 
 
 
